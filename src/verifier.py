@@ -1,3 +1,5 @@
+# detector -> embedder -> similarity -> decision
+
 from deepface import DeepFace
 
 from src.config import (
